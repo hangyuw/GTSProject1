@@ -1,2 +1,2 @@
 # GTSProject1
-GTS Project1
+GTS Project1, set up a pipeline to process Yelp's raw data, cleaning, filling, and optimizing it to conform to SCD Type 2 standards and transform it into a Delta Lake format. Additionally, a silver table has been established to handle any potential SQL queries.
